@@ -1,0 +1,24 @@
+html{
+  background-color: #b8f3d2;
+  color: #129492;
+}
+::selection{
+  background-color: #4ec181;
+  color: #c8eeee;
+}
+
+#site_header{
+  padding-bottom: 5px;
+  border-bottom: 1px solid #129492;
+}
+
+h1{
+  text-align: center;
+}
+h2{
+  margin-left: 20%;
+}
+p{
+  text-align: center;
+  justify-content: center;
+}
