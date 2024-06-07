@@ -16,6 +16,10 @@ h1{
   text-align: center;
 }
 
+h2{
+  text-align: center;
+}
+
 span{
   font-weight: bold;
 }
@@ -31,6 +35,9 @@ nav{
 
 a{
   color: #0a8c56;;
+}
+a:active{
+  color: #3470d6;
 }
 
 p{
