@@ -36,7 +36,7 @@ nav{
 a{
   color: #0a8c56;;
 }
-a:active{
+.active{
   color: #3470d6;
 }
 
